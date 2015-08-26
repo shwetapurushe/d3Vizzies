@@ -1,0 +1,25 @@
+{
+  "name": "d3Vizzies",
+  "version": "0.0.1",
+  "homepage": "https://github.com/shwetapurushe/d3Vizzies",
+  "description": "Light weight visualizations in D3 with minimal interaction",
+  "keywords": [
+    "D3",
+    "data",
+    "visualization"
+  ],
+  "authors": [
+    "Shweta Purushe"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
