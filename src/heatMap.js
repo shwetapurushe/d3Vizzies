@@ -49,7 +49,7 @@ if(!this.d3_Vizzies){
 			.attr("width", this._width )
 			.attr("height",this._height );
 		
-		this._data = config.data;
+		this._data = config.matrix_data;
 		this._labels = config.labels;
 		
 		  // Scaling Functions
